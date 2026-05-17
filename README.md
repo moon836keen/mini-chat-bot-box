@@ -1,2 +1,9 @@
-# mini-chat-bot-box
-A simple chat bot project
+# Chat Bot
+
+A simple chat bot project.
+\n
+## Getting Started
+
+```bash
+python chat.py
+```
